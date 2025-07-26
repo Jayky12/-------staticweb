@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&family=Pattaya&family=Sriracha&display=swap');
+.navhe{
+    background: #000000;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.title{
+    font-family:'Pattaya', sans-serif;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+}
+.font-color-white{
+    color: white;
+    font-family: 'Mitr', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.rowkpp{
+   
+    flex-wrap:wrap;
+    margin-top:calc(-1 * var(--bs-gutter-y));
+    margin-right:calc(-.5 * var(--bs-gutter-x));
+    margin-left:calc(-.5 * var(--bs-gutter-x));
+    padding: 20px;
+}
+.bg{
+    background:linear-gradient(-45deg, #FAAE7B 0%, #432371 100% );
+    
+}
+.sign{
+    color: white;
+    font-family: 'Mitr', sans-serif;
+    text-align:auto;
+    font-size: 20px;
+    margin-left: 1px;
+}
+
+.font-content{
+    color: white;
+    font-family: 'Mitr', sans-serif;
+    text-align:left;
+    font-size: 50px;
+    margin-inline: 10px;
+
+}
+.fontdes{
+    color: white;
+    font-family: 'Mitr', sans-serif;
+    text-align:auto;
+    font-size: 20px;
+    margin-inline: 10px;
+    
+}
+.space{	
+    padding-top: 40px;
+}
+.fontdown{
+    color: black;
+    font-family:'Mitr', sans-serif;
+    font-weight: bold;
+}
+.fontindown{
+    color: #000000;
+    font-family: 'Mitr', sans-serif;
+    font-size: 15px;
+    background: #aed3e3;
+}
+.foodcard{
+    font-family: 'Mitr', sans-serif;
+    font-size: 15px;
+    font-style: italic;
+}
+.foodcardtext{
+    font-family: 'Mitr', sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    margin: 1%;
+}
+.thumbnail {
+   
+    cursor: pointer;
+    
+}
+.thumbnail:hover {
+    transform: scale(1.2);
+}  
+.tratext{
+    font-family: 'Mitr', sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    padding-left: 10px; 
+}
+.footer{
+    color: #0d3b66;
+    font-family: 'Sriracha', cursive;
+   
+}
+.font-first{
+    font-family: 'Mitr', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    font-style:oblique;
+    font-weight: bold;
+    padding: auto;
+}
+.font-first1{
+    font-family: 'Mitr', sans-serif;
+    font-size: 15px;
+    color: #000000;
+    font-style: bold;
+    padding-top: 10px;
+}
+
+.box{
+   background:linear-gradient(-45deg, #b9faf8 0%, #6f2dbd 100%  ) ;
+   padding:20px;
+
+}
+
+.navhead{
+    text-align: center;
+    font-family: 'Mitr', sans-serif;
+    font-size: 25px;
+    
+}
+.bo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    min-height: 100nv;
+}
+.field{
+    width:650px;
+    margin: 20px auto ;    
+    background-image: linear-gradient(-45deg, #ffd8be 0%, #9381ff 100% );
+    padding:5px;
+    font-family: 'Mitr', sans-serif;
+    border-radius: 25px;
+}
+
+.labelf{
+    width: 200px;
+    float:left;
+    margin-right: 5px;
+}
+.spacef{	
+    padding:3px;
+}
+.fontper{
+    font-family:'Mitr', sans-serif ;
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.fontperdes{
+    font-family:'Mitr', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    color: #343232;
+}
+.fontdev{
+    font-family: 'Mitr', sans-serif;
+    font-weight: bolder;
+    padding-bottom: 15px;
+    margin-top: 5px;
+}
+.font8{
+    color: white;
+    font-family: 'Mitr', sans-serif;
+    text-align:auto;
+    font-size: 50px;
+    margin-left: 1px;
+    font-weight: bold;
+}
+.fontdes1{
+    color: white;
+    font-family: 'Mitr', sans-serif;
+    text-align:auto;
+    font-size: 20px;
+    margin-inline: 10px;
+    text-shadow: #000000;
+}
